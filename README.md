@@ -1,7 +1,7 @@
 # Bank Marketing Campaign Classifier Comparison
 A machine learning analysis to predict telemarketing campaign success and improve efficiency using the CRISP-DM framework.
 
-**Jupyter Notebook:** [Google Colab Link](https://colab.research.google.com/drive/1UGXqxUkbFKKfLj6-aomxMYhzzmPhpaW-?usp=sharing)
+**Jupyter Notebook:** https://github.com/cheeseinvert/bank-marketing-campaign-classification/blob/main/prompt_III.ipynb
 
 ## What is the problem? 
 A Portuguese banking institution conducts direct marketing campaigns via telephone to sell long-term deposit products. With only an 11.3% success rate, 88.7% of calls do not result in subscriptions, creating inefficiencies:
