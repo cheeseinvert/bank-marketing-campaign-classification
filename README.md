@@ -83,13 +83,6 @@ Using the Decision Tree model (F1=0.6066, Recall=0.5810), the bank can:
 - **Precision of 63%** means 1 in 1.6 calls succeeds (vs 1 in 9 currently)
 - **5.6x improvement** in call efficiency (63%/11.3%)
 
-**Cost Savings Estimation:**
-- Assume €5 per call (agent time + phone costs)
-- Current: 10,000 calls × €5 = €50,000 per campaign
-- Model: 5,000 calls × €5 = €25,000 per campaign
-- **Savings: €25,000 per campaign (50% cost reduction)**
-- With 17 campaigns over 2.5 years: **~€170,000 annual savings potential**
-
 ## What do I recommend?
 
 ### Immediate Actions (Next Quarter)
